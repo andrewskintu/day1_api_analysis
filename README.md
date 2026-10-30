@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Analysis
 
 The script in `Analysis_project.py` retrieves customer records from JSONPlaceholder,
@@ -53,3 +54,6 @@ If the request fails, it prints an error `Customer data not fetched` and continu
 - Each customer has the JSONPlaceholder fields used by `extract_attributes`.
 - Email domains are the text after `@`, converted to lowercase.
 - Latitude and longitude are converted from API strings to floats.
+=======
+# day1_api_analysis
+>>>>>>> 47e8a56b45d68b05b24c96eb1003f0363af2f05c
